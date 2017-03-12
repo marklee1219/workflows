@@ -4,11 +4,12 @@
   "description": "A project to showcase workflows",
   "repository": {
     "type": "git",
-    "url": "?.git"
+    "url": "https://github.com/marklee1219/workflows.git"
   },
   "author": "Mark Lee",
   "devDependencies": {
     "gulp": "^3.9.1",
+    "gulp-coffee": "^2.3.4",
     "gulp-util": "^3.0.8"
   }
 }
