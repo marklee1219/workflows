@@ -17,5 +17,12 @@
     "gulp-util": "^3.0.8",
     "jquery": "^3.1.1",
     "mustache": "^2.3.0"
+  },
+  "dependencies": {
+    "gulp-imagemin": "^3.1.1",
+    "gulp-jsonminify": "^1.0.0",
+    "gulp-minify-html": "^1.0.6",
+    "gulp-uglify": "^2.1.0",
+    "if": "^2.0.0"
   }
 }
