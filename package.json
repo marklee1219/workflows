@@ -24,5 +24,13 @@
     "gulp-minify-html": "^1.0.6",
     "gulp-uglify": "^2.1.0",
     "if": "^2.0.0"
+  },
+  "scripts": {
+    "start": "node server.cjs",
+    "build": "node scripts/build.cjs",
+    "test": "node --test test/*.test.cjs"
+  },
+  "engines": {
+    "node": ">=24"
   }
 }
